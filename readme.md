@@ -32,6 +32,4 @@ A lo largo del tiempo las peliculas han venido recibiendo mayores ingresos en lo
 El 2013 fue el año con mayor cantidad de votos
 
 
-Como queremos ver las peliculas con más ingresos hacemos un quantil 0.95 donde obtenemos el 5% de las peliculas con más ingresos (esa fue la manera de eliminar los datos nulos de esta columna)
-Separamos las columnas gross (presupuesto) y budget (ingresos), miramos los datos nulos de budget y eliminamos las filas donde estén estos 
 
